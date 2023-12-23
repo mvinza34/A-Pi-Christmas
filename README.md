@@ -1,7 +1,7 @@
 # A-Pi-Christmas
 
 ### Overview
-This is a Christmas-themed project featuring 18 flowing LEDs, four buzzers playing Christmas tunes, and a Pygame-based holiday-themed animation; all done on the Raspberry Pi 4 Model B. Credit for the "buzzer_music.py" code goes to james1236 via the buzzer_music repository. Check out (https://github.com/james1236/buzzer_music) for more information. 
+This is a Christmas-themed project featuring 18 flowing LEDs, four buzzers playing Christmas tunes, and a Pygame-based holiday-themed animation; all done on the Raspberry Pi 4 Model B. Credit for the "buzzer_music.py" code goes to james1236 via the buzzer_music repository, and credit for the Snowflake class at animation.py goes to EruditeCode via "class_Snowflake.py" from the snow_simulator repository. Check out (https://github.com/james1236/buzzer_music) and (https://github.com/EruditeCode/snow_simulator) respectively for more information. 
 
 If you do not have a Raspberry Pi 4 Model B, I recommend you buy the Raspberry Pi 4 desktop kit at (https://www.raspberrypi.com/products/raspberry-pi-4-desktop-kit/). The kit comes with a microSD card pre-loaded with Raspberry Pi OS, a keyboard, a mouse, a power supply, HDMI cables, an instruction manual, and a case for the Raspberry Pi. Follow the manual, set up the Pi, and then come back to this project.
 
