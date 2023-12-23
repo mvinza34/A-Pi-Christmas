@@ -10,7 +10,7 @@ If you do not have a Raspberry Pi 4 Model B, I recommend you buy the Raspberry P
 2) 2 solderless breadboards
 3) 18 LEDs (6 reds, 6 greens, 6 whites)
 4) 18 330 Ω resistors
-5) 4 buzzers (active or passive
+5) 4 buzzers (active or passive)
 
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/fe967c6f-7c30-490a-afb0-8f094cf3486d)
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/f9b7748c-cbdf-4863-9a52-ab4172356a34)
