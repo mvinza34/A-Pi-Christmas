@@ -12,6 +12,11 @@ If you do not have a Raspberry Pi 4 Model B, I recommend you buy the Raspberry P
 4) 18 330 Ω resistors
 5) 4 buzzers (active or passive)
 
+![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/f9b7748c-cbdf-4863-9a52-ab4172356a34)
+![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/e0cc6d3f-5641-47a1-af2b-bcce1920f391)
+![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/1d06ce5e-34ec-4a39-b381-84ea7ed043e5)
+![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/deaca4b2-57be-469d-a687-e3fa8ded298d)
+
 ### Instructions
 1) Design the circuit based on the provided breadboard image and schematic below:
 
