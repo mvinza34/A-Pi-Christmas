@@ -10,8 +10,6 @@ This is a Christmas-themed project featuring 18 flowing LEDs, four buzzers playi
 4) 18 330 Ω resistors
 5) 4 buzzers (active or passive)
 
-https://photos.app.goo.gl/AFdE7hsWTS5rdYQ99
-
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/fe967c6f-7c30-490a-afb0-8f094cf3486d)
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/f9b7748c-cbdf-4863-9a52-ab4172356a34)
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/e0cc6d3f-5641-47a1-af2b-bcce1920f391)
