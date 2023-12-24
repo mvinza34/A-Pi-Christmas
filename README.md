@@ -24,12 +24,9 @@ This is a Christmas-themed project featuring 18 flowing LEDs, four buzzers playi
 
 2) Plug in the Raspberry Pi 4 Model B.
 3) Copy the files in this repository to the Pi.
-4) Go to 'Terminal' and install pygame - Community Edition using the command 'pip install pygame-ce'. This way, you get the latest version of pygame.
+4) Go to 'Terminal' and install pygame - Community Edition using the command 'pip install pygame-ce'. Then, type 'pip install pygame-ce --upgrade' to get the latest version of pygame.
 5) Open main.py and settings.py
 6) To add more holiday-themed music, go to onlinesequencer.net and pick a song. Click edit, select all notes with CTRL + A, and then copy them with CTRL + C.
 7) Go to settings.py and paste the string. Make sure to remove "Online Sequencer:120233:" from the start and ";:" from the end.
 8) Run main.py
 9) Enjoy the music, lights, and a nice little animation at the end, and have a wonderful Happy Holidays! 
-
-   
-Code and other files underway...
