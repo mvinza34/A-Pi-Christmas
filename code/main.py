@@ -151,6 +151,7 @@ class Transition:
 			if self.border_width >= self.threshold:
 				self.direction = -1
 				self.toggle()
+				
 				self.xmas.play() # play the christmas show before ending with the animation
 			
 			if self.border_width < 0:
