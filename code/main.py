@@ -59,7 +59,7 @@ class Main:
 					pygame.draw.circle(self.display_surface, snowflake.color, snowflake.pos, snowflake.radius)
 					snowflake.controller(WINDOW_HEIGHT, WINDOW_WIDTH) 
 
-			self.transition.display(dt) # run the transtiton from the opening screen to the animation
+			self.transition.display(dt) # run the transition from the opening screen to the animation
 			pygame.display.update()
 
 class Xmas:
