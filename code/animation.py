@@ -26,8 +26,8 @@ class Animation:
 	def event_loop(self):
 		for event in pygame.event.get():
 			if event.type == pygame.QUIT:
-					pygame.quit()
-					sys.exit()
+				pygame.quit()
+				sys.exit()
 
 	def message(self, dt):
 		# create the message
