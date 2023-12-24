@@ -11,6 +11,7 @@ This is a Christmas-themed project featuring 18 flowing LEDs, four buzzers playi
 5) 4 buzzers (active or passive)
 
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/1e56e49c-cfae-465e-8a41-5d1eb9b7e89d)
+![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/13944b75-7ec5-4c92-9150-cdbae2a2c83d)
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/fe967c6f-7c30-490a-afb0-8f094cf3486d)
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/f9b7748c-cbdf-4863-9a52-ab4172356a34)
 ![image](https://github.com/mvinza34/A-Pi-Christmas/assets/89809703/e0cc6d3f-5641-47a1-af2b-bcce1920f391)
