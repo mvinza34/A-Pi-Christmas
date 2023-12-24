@@ -99,6 +99,7 @@ class Xmas:
 			sleep(0.05)
 			self.song1_time -= 5  # countdown rate (varies depending on the song) (figured out through trial and error)        
 		mySong.stop() # stops the buzzers once the countdown is finished
+		sleep(1)
 		self.lights_off()
 		sleep(1)
 
@@ -110,7 +111,8 @@ class Xmas:
 			mySong.tick()
 			sleep(0.08)
 			self.song2_time -= 3.65 # countdown rate  
-		mySong.stop()   
+		mySong.stop()  
+		sleep(1)
 		self.lights_off()
 		sleep(1)
 
@@ -125,6 +127,7 @@ class Xmas:
 		mySong.stop()
 		sleep(1)
 		self.lights_off()
+		sleep(1)
 
 # switch from the opening screen to the animation	 
 class Transition:
@@ -149,7 +152,6 @@ class Transition:
 				self.direction = -1
 				self.toggle()
 				self.xmas.play() # play the christmas show before ending with the animation
-				sleep(1)
 			
 			if self.border_width < 0:
 				self.active = False
