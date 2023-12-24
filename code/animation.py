@@ -88,6 +88,9 @@ class Animation:
 		
 		return stars
 
+	def draw_ground(self, dt):
+		pygame.draw.rect(self.display_surface, (240, 240, 240), [0, WINDOW_HEIGHT-60, WINDOW_WIDTH, 60]) 
+
 	def create_tree(self, x, y, display_surface, dt):
 		pygame.draw.rect(self.display_surface, (139,69,19), [x+60, y+400, 30, 45])
 		pygame.draw.polygon(self.display_surface, (0,128,0), [[x+150, y+400], [x+75, y+250], [x+0, y+400]])
@@ -107,7 +110,7 @@ class Animation:
 		self.event_loop()
 		# drawing
 		self.display_surface.fill(BACKGROUND_COLOR)
-		pygame.draw.rect(self.display_surface, (240, 240, 240), [0, WINDOW_HEIGHT-60, WINDOW_WIDTH, 60]) # draw the floor
+		self.draw_ground(dt)
 		self.draw_trees(dt)
 		self.message(dt)
 		self.all_sprites.draw(self.display_surface)
